@@ -29,8 +29,8 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento local.
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/alexandresjunior/calculadora-python.git](https://github.com/alexandresjunior/calculadora-python.git)
-cd nome-do-repositorio
+git clone https://github.com/alexandresjunior/calculadora-python.git
+cd calculadora-python
 ```
 
 **2. Crie um ambiente virtual (venv):**
