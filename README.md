@@ -29,7 +29,7 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento local.
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+git clone [https://github.com/alexandresjunior/calculadora-python.git](https://github.com/alexandresjunior/calculadora-python.git)
 cd nome-do-repositorio
 ```
 
